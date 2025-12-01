@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Now",
+  "base_artist": "Zedd",
+  "createdAt": "2025-12-01T11:38:28.828611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd feat. Jon Bellion",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Now_Zedd_feat._Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful Now (feat. Jon Bellion)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/02_Beautiful_Now_(feat._Jon_Bellion)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "ZEDD",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Now_ZEDD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd/Jon Bellion",
+      "has_synced": true,
+      "path": "select/04_Beautiful_Now_Zedd_Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd Feat. Jon Bellion",
+      "has_synced": true,
+      "path": "select/05_Beautiful_Now_Zedd_Feat._Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful Now (Featuring Jon Bellion)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/06_Beautiful_Now_(Featuring_Jon_Bellion)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Now.",
+      "artist": "Zedd feat. Jon Bellion",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Now._Zedd_feat._Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd ft. Jon Bellion",
+      "has_synced": true,
+      "path": "select/08_Beautiful_Now_Zedd_ft._Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd & Jon Bellion",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Now_Zedd_&_Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Now (feat. Jon Bellion) [Zonderling Remix]",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Now_(feat._Jon_Bellion)_[Zonderling_Remix]_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd feat John Bellion",
+      "has_synced": true,
+      "path": "select/11_Beautiful_Now_Zedd_feat_John_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy Beautiful (NOW What's Next!)",
+      "artist": "Skylar Stecker",
+      "has_synced": true,
+      "path": "select/12_Crazy_Beautiful_(NOW_What's_Next!)_Skylar_Stecker.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful Now (feat. Jon Bellion)",
+      "artist": "ZEDD, Jon Bellion",
+      "has_synced": true,
+      "path": "select/13_Beautiful_Now_(feat._Jon_Bellion)_ZEDD,_Jon_Bellion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beautiful Now",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/14_Beautiful_Now_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beautiful Now (feat. Jon Bellion) [Charlie Darker Remix]",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/15_Beautiful_Now_(feat._Jon_Bellion)_[Charlie_Darker_Remix]_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beautiful Now (Charlie Darker remix)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/16_Beautiful_Now_(Charlie_Darker_remix)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beautiful Now (feat. Jon Bellion) [Dirty South Remix]",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/17_Beautiful_Now_(feat._Jon_Bellion)_[Dirty_South_Remix]_Zedd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Now",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Now_Zedd.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Beautiful Now",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_02_Beautiful_Now_Zedd.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Beautiful Now",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_03_Beautiful_Now_Zedd.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Beautiful Now (feat. Jon Bellion)",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_04_Beautiful_Now_(feat._Jon_Bellion)_Zedd.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Beautiful Now",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_05_Beautiful_Now_Zedd.txt"
+    }
+  ]
+}
