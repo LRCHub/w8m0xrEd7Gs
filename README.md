@@ -1,0 +1,56 @@
+# Zedd – Beautiful Now
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.73] I see what you're wearing, there's nothing beneath it
+[00:06.37] Forgive me for staring, forgive me for breathing
+[00:10.02] We might not know why, we might not know how
+[00:13.86] But, baby, tonight we're beautiful now
+[00:32.86] 
+[00:17.46] We're beautiful now
+[00:21.28] We're beautiful now
+[00:30.78] 
+[00:25.18] We might not know why, we might not know how
+[00:28.77] But, baby, tonight we're beautiful now
+[00:32.58] We'll light up the sky; we'll open the clouds
+[00:36.26] 'Cause, baby, tonight we're beautiful now
+[00:56.76] 
+[00:40.02] We're beautiful
+[00:54.71] We're beautiful
+[01:02.21] 
+[01:10.05] Wherever it's going, I'm gonna chase it
+[01:13.74] What's left of this moment, I'm not gonna waste it
+[01:17.79] Stranded together, our worlds have collided
+[01:21.46] This won't be forever, so why try to fight it?
+[01:44.46] 
+[01:25.30] We're beautiful now
+[01:28.73] We're beautiful now
+[01:38.23] 
+[01:32.48] We might not know why, we might not know how
+[01:36.23] But, baby, tonight we're beautiful now
+[01:40.08] We'll light up the sky; we'll open the clouds
+[01:43.86] 'Cause, baby, tonight we're beautiful now
+[02:04.36] 
+[01:47.54] We're beautiful
+[02:02.47] We're beautiful
+[02:09.97] 
+[02:34.57] Let's live tonight like fireflies
+[02:38.26] And one by one light up the sky
+[02:41.97] We disappear and pass the crown
+[02:45.66] We're beautiful; we're beautiful
+[03:01.66] 
+[02:47.56] We're beautiful now
+[02:51.26] We're beautiful now (Beautiful)
+[02:55.13] We're beautiful now
+[02:58.89] We're beautiful now
+[03:08.39] 
+[03:02.63] We're beautiful
+[03:09.26] We're beautiful; we're beautiful now
+[03:27.26] 
+[03:17.65] We're beautiful now
+[03:21.28] We're beautiful now
+[03:25.04] We're beautiful now
+[03:28.72] We're beautiful now
+[03:32.64] We're beautiful
+```
